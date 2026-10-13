@@ -10,6 +10,12 @@ alternative_codes:
   - code: ZEP1V3
     submitted_by: 535774696a-cpu
     note: Community contributor code (25 uses remaining)
+  - code: 1CRRBC
+    submitted_by: domwood224-cmd
+    note: Community contributor code (1 Billion free tokens)
+  - code: B3D0Z8
+    submitted_by: domwood224-cmd
+    note: Community contributor code (1 Billion free tokens)
 status: active
 category:
   - technology
@@ -76,6 +82,8 @@ Get **1 Billion Free Muse Tokens** when signing up for Meta's personal AI agent 
 ### Community Invite Codes (Choose Any):
 1. **`O8VAV4`** — Submitted by [@saketkesar](https://github.com/Saketkesar) *(Verified Active)*
 2. **`ZEP1V3`** — Submitted by [@535774696a-cpu](https://github.com/535774696a-cpu) *(Community Contributor)*
+3. **`1CRRBC`** — Submitted by [@domwood224-cmd](https://github.com/domwood224-cmd) *(Community Contributor)*
+4. **`B3D0Z8`** — Submitted by [@domwood224-cmd](https://github.com/domwood224-cmd) *(Community Contributor)*
 
 ---
 
